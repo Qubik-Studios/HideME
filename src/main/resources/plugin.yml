@@ -1,0 +1,14 @@
+name: "HideMe"
+version: '${project.version}'
+main: net.qubikstudios.conminelp.hideme.VanishPlugin
+api-version: 1.19
+commands:
+  vanish:
+    permission: hideme.vanish.change
+    usage: "Usage: /vanish {player}"
+  reloadskin:
+    permission: hideme.reloadskin
+    usage: "Usage: /reloadskin {player}"
+  revealvanished:
+    permission: hideme.revealvanished
+    usage: "Usage: /revealvanished"
