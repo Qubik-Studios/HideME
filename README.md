@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://qubik-studios.net/wp-content/uploads/2022/07/Sneaky-Tree-Growing-Banner.png">
+    <img src="https://qubik-studios.net/wp-content/uploads/2023/03/HideME-Banner.png">
 </p>
 <div align="center">
     <img src="https://img.shields.io/github/v/release/Qubik-Studios/HideME?include_prereleases&style=flat-square" alt="Current Release">
