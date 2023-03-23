@@ -14,6 +14,11 @@
 You can find downloads in the list below or by Compiling from source.
 There is no alternative download links/pages that are official maintained by Qubik Studios when they are not shown here.
 
+#### Official maintained Download Links
+<center>
+<a href="https://www.curseforge.com/minecraft/bukkit-plugins/papermc-hideme">Download now on CurseForge</a>
+</center>
+
 ## Features
 Use the build in commands to hide you from the Server.
 This is a really simple Plugin and doesn't have the ability to hide you completely.
